@@ -1,0 +1,15 @@
+Only Two Fields, Missing Stuff
+, IT, no.name@email.com, 540-555-0000, 2.50
+Good Name, Major, good.name@email.com, 540-555-1010, not_a_gpa
+Jane Doe, Cybersecurity, jane.doe@email.com, 540-555-1212
+Extra, Commas, In, This, Line, 3.20
+   
+John Smith, Data Science, john.smith@email.com, 540-555-1313, 4.10
+Maria Lee, Information Technology, maria.lee@email.com, 540-555-1414, 3.00
+Comment Line // ignore me?
+Mismatched Quote, Computer Science, "mismatch@email.com, 540-555-1515, 3.40
+Bad Email, Software Engineering, bad.email(at)domain, 540-555-1616, 3.10
+No Phone, Data Science, no.phone@email.com, , 3.00
+Spaces , Data Science , spaced.email@email.com , 540-555-1717 , 2.80
+Trailing, Comma, trailing@email.com, 540-555-1818, 3.20,
+Ok Student, Computer Science, ok.student@email.com, 540-555-1919, 3.60

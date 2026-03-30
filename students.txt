@@ -1,0 +1,100 @@
+Xavi Wong, Cybersecurity, xavi.wong@email.com, 757-489-9496, 2.22
+Xavi Edwards, Computer Engineering, xavi.edwards@email.com, 540-303-5594, 2.24
+Zane Reed, Computer Engineering, zane.reed@email.com, 434-272-3684, 2.81
+Ivy Jenkins, Data Science, ivy.jenkins@email.com, 434-485-8820, 2.83
+Xavi Turner, Cybersecurity, xavi.turner@email.com, 757-362-9519, 2.75
+Finn Johnson, Software Engineering, finn.johnson@email.com, 703-299-5503, 3.03
+Ella Ortiz, Computer Engineering, ella.ortiz@email.com, 434-716-6404, 3.87
+Jill Larson, Computer Engineering, jill.larson@email.com, 804-523-6488, 2.40
+Xena Stewart, Information Technology, xena.stewart@email.com, 540-354-1515, 2.38
+Ravi Ramos, Network Administration, ravi.ramos@email.com, 434-894-3131, 2.77
+Yara Norris, Information Technology, yara.norris@email.com, 804-409-5947, 2.22
+Bianca Taylor, Network Administration, bianca.taylor@email.com, 703-290-4890, 2.15
+Piper Zimmerman, Cybersecurity, piper.zimmerman@email.com, 804-656-7532, 3.05
+Violet Ortiz, Cybersecurity, violet.ortiz@email.com, 540-217-6570, 2.94
+Hana Turner, Data Science, hana.turner@email.com, 434-339-6198, 2.56
+Uma Reed, Information Systems, uma.reed@email.vccs.edu, 703-325-7906, 2.46
+Marco Carter, Computer Science, marco.carter@email.com, 434-781-5706, 3.23
+Sam Wong, Software Engineering, sam.wong@email.com, 804-799-6354, 3.90
+Wade Santos, Information Technology, wade.santos@email.com, 434-779-3217, 3.32
+Noah Upton, Cybersecurity, noah.upton@email.com, 540-925-9966, 3.24
+Marco Irwin, Computer Science, marco.irwin@email.com, 804-649-2697, 2.00
+Quinn Larson, Computer Engineering, quinn.larson@email.com, 540-764-9528, 2.39
+Omar Brooks, Computer Science, omar.brooks@email.vccs.edu, 804-913-2611, 3.76
+Tara Jones, Computer Science, tara.jones@email.com, 434-504-5191, 2.04
+Carla Ramos, Computer Engineering, carla.ramos@email.com, 703-506-1943, 2.93
+Nia Edwards, Data Science, nia.edwards@email.com, 757-252-8282, 3.52
+Marco Smith, Information Technology, marco.smith@email.com, 804-837-7355, 3.47
+Vera Carter, Software Engineering, vera.carter@email.com, 434-601-8995, 2.43
+Bianca Park, Computer Science, bianca.park@email.com, 757-520-3256, 2.31
+Jack Edwards, Data Science, jack.edwards@email.com, 757-603-5650, 2.44
+Marco Mendez, Information Technology, marco.mendez@email.vccs.edu, 540-427-1668, 3.86
+Bianca Stewart, Data Science, bianca.stewart@email.com, 804-948-2400, 3.28
+Vera Edwards, Computer Engineering, vera.edwards@email.com, 757-373-7662, 2.72
+Jill Upton, Information Technology, jill.upton@email.vccs.edu, 804-792-2121, 2.65
+Noah Santos, Software Engineering, noah.santos@email.com, 703-818-5584, 3.42
+Jack Young, Cybersecurity, jack.young@email.vccs.edu, 757-354-4497, 3.29
+Amir Mendez, Data Science, amir.mendez@email.com, 703-328-8993, 2.12
+Ravi Johnson, Computer Engineering, ravi.johnson@email.vccs.edu, 540-389-2664, 3.54
+Sage Zimmerman, Information Technology, sage.zimmerman@email.vccs.edu, 703-880-3123, 2.53
+Jack Dawson, Software Engineering, jack.dawson@email.com, 703-914-1583, 3.17
+Farah Irwin, Network Administration, farah.irwin@email.com, 703-644-2943, 2.86
+Yumi Stewart, Network Administration, yumi.stewart@email.com, 703-370-5132, 2.44
+Yara Elliott, Cybersecurity, yara.elliott@email.vccs.edu, 757-334-9147, 2.18
+Mia Mendez, Cybersecurity, mia.mendez@email.com, 703-395-2795, 2.41
+Quinn Nguyen, Information Technology, quinn.nguyen@email.com, 804-588-4769, 3.41
+Omar Irwin, Information Technology, omar.irwin@email.com, 434-559-8638, 3.67
+Ella Turner, Cybersecurity, ella.turner@email.com, 540-320-3011, 2.96
+Hana Ingram, Cybersecurity, hana.ingram@email.vccs.edu, 434-287-3100, 2.21
+Yara Elliott, Cybersecurity, yara.elliott@email.vccs.edu, 804-387-5321, 2.08
+Wade Klein, Computer Science, wade.klein@email.com, 757-365-2184, 2.57
+Mia Quintana, Computer Engineering, mia.quintana@email.com, 703-350-6898, 2.78
+Xena Owens, Cybersecurity, xena.owens@email.com, 540-514-7731, 2.59
+Uma Jones, Data Science, uma.jones@email.com, 434-713-5546, 2.59
+Jack Diaz, Network Administration, jack.diaz@email.com, 757-665-2211, 3.87
+Uri Vargas, Computer Science, uri.vargas@email.com, 434-588-4409, 3.90
+Finn Carter, Cybersecurity, finn.carter@email.com, 757-907-3558, 2.27
+Liam Hughes, Data Science, liam.hughes@email.vccs.edu, 540-450-3779, 3.39
+Alice Ortiz, Computer Science, alice.ortiz@email.vccs.edu, 434-917-1105, 2.57
+Nia Irwin, Data Science, nia.irwin@email.com, 757-379-2386, 2.87
+Alice Lawson, Computer Engineering, alice.lawson@email.com, 703-525-1792, 3.58
+Kara Ingram, Data Science, kara.ingram@email.com, 804-819-8262, 2.00
+Liam Wong, Computer Engineering, liam.wong@email.com, 757-227-4175, 2.04
+Kai Stewart, Computer Engineering, kai.stewart@email.com, 757-499-8110, 3.09
+David Fischer, Information Systems, david.fischer@email.vccs.edu, 434-885-9226, 2.31
+Will Reed, Data Science, will.reed@email.vccs.edu, 540-385-9941, 2.97
+Omar Irwin, Information Technology, omar.irwin@email.com, 540-385-9042, 2.22
+Quinn Fischer, Data Science, quinn.fischer@email.com, 540-424-4372, 3.37
+Zane Hardy, Information Technology, zane.hardy@email.com, 434-561-7399, 3.21
+Carla Greene, Cybersecurity, carla.greene@email.com, 703-923-4595, 3.04
+Ivy Zimmerman, Data Science, ivy.zimmerman@email.com, 804-338-8112, 2.36
+Carla Adams, Software Engineering, carla.adams@email.com, 703-974-1113, 3.56
+Quinn Jones, Information Systems, quinn.jones@email.com, 434-609-3212, 2.62
+Marco Brooks, Information Technology, marco.brooks@email.com, 703-728-4924, 3.36
+Lola Park, Computer Science, lola.park@email.com, 703-787-3591, 2.67
+Alice Klein, Computer Engineering, alice.klein@email.com, 804-876-4767, 3.14
+Farah Nelson, Software Engineering, farah.nelson@email.com, 540-423-4273, 2.19
+Bianca Garcia, Software Engineering, bianca.garcia@email.com, 434-801-9180, 3.77
+David Nelson, Data Science, david.nelson@email.com, 703-229-4597, 3.32
+Xena Upton, Cybersecurity, xena.upton@email.vccs.edu, 703-737-7569, 3.56
+Sam Ortiz, Network Administration, sam.ortiz@email.vccs.edu, 804-401-9171, 2.11
+Kara Norris, Information Technology, kara.norris@email.vccs.edu, 434-400-2151, 2.41
+Bianca Lopez, Information Systems, bianca.lopez@email.com, 757-406-1575, 2.51
+Xavi Nguyen, Network Administration, xavi.nguyen@email.com, 434-966-6797, 2.61
+Vera Owens, Cybersecurity, vera.owens@email.vccs.edu, 757-368-3348, 3.91
+Ravi Turner, Computer Engineering, ravi.turner@email.com, 540-803-9954, 3.86
+Alice Hardy, Computer Science, alice.hardy@email.vccs.edu, 757-546-9181, 2.41
+Carla Jenkins, Software Engineering, carla.jenkins@email.com, 804-594-4232, 2.96
+Yumi Kim, Data Science, yumi.kim@email.vccs.edu, 540-214-7381, 3.80
+Liam Perez, Information Systems, liam.perez@email.com, 757-539-4817, 3.44
+Carla Irwin, Information Systems, carla.irwin@email.com, 804-508-2552, 3.84
+Kai Hughes, Computer Science, kai.hughes@email.vccs.edu, 757-540-1785, 3.95
+Xena Norris, Data Science, xena.norris@email.com, 804-394-4996, 3.55
+Ian Johnson, Computer Engineering, ian.johnson@email.com, 540-466-4646, 2.14
+Theo Ingram, Computer Science, theo.ingram@email.com, 757-587-3710, 2.84
+Jill Upton, Computer Engineering, jill.upton@email.vccs.edu, 434-866-3784, 3.56
+Ravi Dawson, Software Engineering, ravi.dawson@email.com, 540-631-8489, 2.34
+Henry Diaz, Data Science, henry.diaz@email.com, 804-535-9824, 2.53
+Ivy Greene, Network Administration, ivy.greene@email.com, 434-659-3848, 3.39
+Sage Kim, Software Engineering, sage.kim@email.com, 804-246-4250, 3.45
+Grace Johnson, Information Systems, grace.johnson@email.com, 757-976-3726, 2.51

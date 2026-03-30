@@ -1,0 +1,10 @@
+Xavi Wong, Cybersecurity, xavi.wong@email.com, 757-489-9496, 2.22
+Xavi Edwards, Computer Engineering, xavi.edwards@email.com, 540-303-5594, 2.24
+Zane Reed, Computer Engineering, zane.reed@email.com, 434-272-3684, 2.81
+Ivy Jenkins, Data Science, ivy.jenkins@email.com, 434-485-8820, 2.83
+Xavi Turner, Cybersecurity, xavi.turner@email.com, 757-362-9519, 2.75
+Finn Johnson, Software Engineering, finn.johnson@email.com, 703-299-5503, 3.03
+Ella Ortiz, Computer Engineering, ella.ortiz@email.com, 434-716-6404, 3.87
+Jill Larson, Computer Engineering, jill.larson@email.com, 804-523-6488, 2.40
+Xena Stewart, Information Technology, xena.stewart@email.com, 540-354-1515, 2.38
+Ravi Ramos, Network Administration, ravi.ramos@email.com, 434-894-3131, 2.77
