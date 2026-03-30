@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ReadFileExample {
     public static void main(String[] args) {
         // Try-with-resources ensures the Scanner (and underlying file) is closed automatically
-        try (Scanner fileScan = new Scanner(new File("students.txt"))) {
+        try (Scanner fileScan = new Scanner(new File("students_bad.txt"))) {
             // Read until there are no more lines
             while (fileScan.hasNextLine()) {
                 String line = fileScan.nextLine();  // Read one whole line of text
